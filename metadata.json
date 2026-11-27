@@ -1,0 +1,6 @@
+{
+  "name": "PixelStudio — Digital Design Studio",
+  "description": "Local browser-based digital design, painting, vector illustration, typography, and image editing studio with layers, effects, IndexedDB persistence, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
